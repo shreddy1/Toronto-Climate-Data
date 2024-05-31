@@ -1,0 +1,15 @@
+2024-05-31 17:11:30 - Starting data download...
+2024-05-31 17:11:32 - Successfully downloaded data for year 2020
+2024-05-31 17:11:34 - Successfully downloaded data for year 2021
+2024-05-31 17:11:36 - Successfully downloaded data for year 2022
+2024-05-31 17:11:36 - Data download completed.
+2024-05-31 17:11:36 - Running Python script to concatenate data...
+2024-05-31 17:11:36 - Python script execution failed.
+2024-05-31 17:17:17 - Starting data download...
+2024-05-31 17:17:18 - Successfully downloaded data for year 2020
+2024-05-31 17:17:21 - Successfully downloaded data for year 2021
+2024-05-31 17:17:23 - Successfully downloaded data for year 2022
+2024-05-31 17:17:23 - Data download completed.
+2024-05-31 17:17:23 - Running Python script to concatenate data...
+2024-05-31 17:17:24 - Python script executed successfully.
+2024-05-31 17:17:24 - SUCCESS
